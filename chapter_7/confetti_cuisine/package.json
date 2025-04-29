@@ -1,0 +1,14 @@
+{
+  "name": "confetti_cuisine",
+  "version": "1.0.0",
+  "description": "A website to sign up for cooking courses or view offers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KLVS",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}

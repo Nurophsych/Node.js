@@ -1,0 +1,12 @@
+{
+    "name": "chapter_5_server",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "http-status-codes": "^2.3.0"
+    }
+}
